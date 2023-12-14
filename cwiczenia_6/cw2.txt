@@ -1,0 +1,9 @@
+> SpecA cgaaggatgacgacgagtga
+
+# To jest komentarz do SpecB
+> SpecB gcgatgcgacgtgcgacggc
+
+> SpecC cccgcggcgagcggcgagcgcgca
+
+# To jest komentarz do SpecD
+> SpecD aatctactcatctcctca

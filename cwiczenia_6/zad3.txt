@@ -1,0 +1,4 @@
+Karolina Kowalczyk: 5 3 4 5 3 4 3
+Paweł Adamiec: 4 4 5 4 3 3 4
+Dominik Janicki: 5 5 5 4 4 3
+Anna Wrona: 4 3 3 5 5 5 5

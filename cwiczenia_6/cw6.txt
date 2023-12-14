@@ -1,0 +1,8 @@
+Tą linijkę wczytaj.
+Tej nie.
+Ta linijka powinna zostać wczytana.
+54
+87
+21
+98
+43
